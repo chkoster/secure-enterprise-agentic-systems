@@ -2,7 +2,7 @@
 
 A comprehensive case study documenting the design of an enterprise-grade agentic knowledge platform.
 
-## Themes
+## Sections
 
 - Personal Knowledge Management (PKM)
 - Organizational Knowledge Management
@@ -13,5 +13,3 @@ A comprehensive case study documenting the design of an enterprise-grade agentic
 - Agentic Workflows
 - Decision Support
 - Continuous Learning
-
-> This capstone evolves throughout the book and integrates concepts from every preceding chapter.

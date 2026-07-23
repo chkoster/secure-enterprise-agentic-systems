@@ -1,7 +1,5 @@
 # Part III — Security & Governance
 
-This part addresses threat modeling, secure design patterns, and governance frameworks for enterprise agentic systems.
-
 ## Chapters
 
 - [Chapter 7 — Threat Modeling Agentic Systems](chapter-07-threat-modeling.md)

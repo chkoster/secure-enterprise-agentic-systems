@@ -1,7 +1,5 @@
 # Part V — Designing Enterprise Agentic Systems
 
-This part provides reference architectures, decision frameworks, and transformation roadmaps for practitioners.
-
 ## Chapters
 
 - [Chapter 13 — Reference Architectures](chapter-13-reference-architectures.md)

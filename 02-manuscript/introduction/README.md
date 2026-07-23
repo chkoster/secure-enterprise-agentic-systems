@@ -1,6 +1,4 @@
-# Introduction
-
-## From AI Applications to Agentic Enterprises
+# Introduction — From AI Applications to Agentic Enterprises
 
 ## Sections
 
