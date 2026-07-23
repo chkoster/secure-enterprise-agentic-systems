@@ -1,5 +1,7 @@
 # Part IV — Enterprise Applications
 
+This part surveys real-world use cases, operating models, and success metrics for enterprise agentic deployments.
+
 ## Chapters
 
 - [Chapter 10 — Enterprise Use Cases](chapter-10-enterprise-use-cases.md)
